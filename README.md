@@ -12,7 +12,7 @@ Integrado de Factura Electrónica Nacional) a través de un SDK para el lenguaje
     <dependency>
         <groupId>com.roshka.sifen</groupId>
         <artifactId>rshk-jsifenlib</artifactId>
-        <version>0.2.1</version>
+        <version>0.2.2</version>
     </dependency>
 </dependencies>
 ```
@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.roshka.sifen:rshk-jsifenlib:0.2.1'
+    implementation 'com.roshka.sifen:rshk-jsifenlib:0.2.2'
 }
 ```
 
@@ -155,6 +155,7 @@ Algunas empresas que utilizan esta librería en producción para sus implementac
 1. [Taxare S.A.](https://www.taxit.com.py) para su producto TAXit! (2021-05)
 2. [NEXO S.A.E.C.A](http://www.nexo.com.py) (2022-03)
 3. [Roshka S.A.](https://www.roshka.com) (2022-04)
+4. [SIFAMERICA S.A.](https://www.sif.com.py) (2022-11)
 
 (*) ¿Querés agregar la tuya? Envianos un [email](mailto:pablo@roshka.com.py) para incluirla. 
 
